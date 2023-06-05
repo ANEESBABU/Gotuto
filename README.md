@@ -1,0 +1,2 @@
+# Gotuto
+learning Go language
